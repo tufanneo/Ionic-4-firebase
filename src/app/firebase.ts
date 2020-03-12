@@ -1,12 +1,12 @@
 const Config = {
     // Put here your firebase configuration
-    apiKey: "AIzaSyBBwjIYNbZjQeDzSxNWYjEz6sBXSXJEfts",
-    authDomain: "ionic4firebase-st.firebaseapp.com",
-    databaseURL: "https://ionic4firebase-st.firebaseio.com",
-    projectId: "ionic4firebase-st",
-    storageBucket: "ionic4firebase-st.appspot.com",
-    messagingSenderId: "5463921528",
-    appId: "1:5463921528:web:c9887fad2069e9fd"
-};
+    apiKey: "AIzaSyAk-mLZ1eKaWDjddc-OSnI29h2C2PTozGE",
+    authDomain: "ionic4-trashmail.firebaseapp.com",
+    databaseURL: "https://ionic4-trashmail.firebaseio.com",
+    projectId: "ionic4-trashmail",
+    storageBucket: "ionic4-trashmail.appspot.com",
+    messagingSenderId: "29353657360",
+    appId: "1:29353657360:web:76d3f80b0f316576dff695"
+  };
 
 export default Config;
